@@ -31,7 +31,6 @@ Segue abaixo as tarefas do primeiro desafio proposto pelo plano programático de
 
 ## Contato
 
----
 Vamos nos conectar? **Minhas redes**:
 
 - [Linkedin](https://www.linkedin.com/in/devrodrigosousa/)
