@@ -4,6 +4,20 @@
 
 Na nossa formação do [Vai na Web](https://www.vainaweb.com.br/) temos desafios logo após o término das aulas para colocarmos a mão na massa, ou melhor, no código.
 
+## Conteúdo da Aula01
+### Tema da aula: Variáveis e tipos de dados simples
+
+Discussão: introdução à lógica de programação
+
+### Explanação: 
+*Como usar a função console.log()
+*Como atribuir valores a variáveis e os tipos de dados que ela recebe
+
+### Objetivos: 
+*Entender a diferença entre var, let e const
+*Entender a função console.log
+*Apresentar os tipos de dados string, number e boolean
+
 ## Desafios Javascript
 - Desafio 01
 - Desafio 02 [em breve]
