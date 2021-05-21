@@ -19,11 +19,11 @@ Discussão: introdução à lógica de programação
 *Apresentar os tipos de dados string, number e boolean
 
 ## Desafios Javascript
-- Desafio 01
-- Desafio 02 [em breve]
-- Desafio 03 [em breve]
-- Desafio 04 [em breve]
-- Desafio 05 [em breve]
+- [Desafio 01](https://devrodrigosousa.github.io/desafio1-js/)
+- [Desafio 02](https://devrodrigosousa.github.io/desafio2-js/)
+- [Desafio 03](https://devrodrigosousa.github.io/desafio3-js/)
+- [Desafio 04](https://devrodrigosousa.github.io/desafio4-js/)
+- [Desafio 05](https://devrodrigosousa.github.io/desafio5-js/)
 
 ### Desafio 01
 ---
