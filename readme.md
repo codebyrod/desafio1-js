@@ -40,7 +40,7 @@ Discussão: introdução à lógica de programação
 
 ### Desafio 01
 ---
-Segue abaixo as tarefas do primeiro desafio proposto pelo plano programático de estudos do [Vai na Web](https://www.vainaweb.com.br/).
+Segue abaixo as tarefas do **primeiro** desafio proposto pelo plano programático de estudos do [Vai na Web](https://www.vainaweb.com.br/).
 
 ```js
 // Crie uma variável que receba seu nome;
@@ -55,6 +55,12 @@ Segue abaixo as tarefas do primeiro desafio proposto pelo plano programático de
 
 // Agora mostre no console o resultado da soma das duas variáveis;
 ```
+
+## Quem sou eu?
+<img src="assets/img/perfil linkedin.png" align="right" width= "250">
+
+Meu nome é [Rodrigo](https://www.linkedin.com/in/devrodrigosousa/), tenho 27 anos e sou recém-formado em Ciências Socais. Atualmente sou estudante de Front-End pela escola de programação [Vai na Web](https://www.vainaweb.com.br/).
+
 
 ## Contato
 
